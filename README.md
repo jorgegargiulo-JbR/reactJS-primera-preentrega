@@ -28,7 +28,7 @@
 ### Entregado
 
 - **Componente CartWidget.js que renderiza dentro del icono FaShoppingCart, incluido dentro de NavBar.js.**
-- **Componente ItemListContainer, importado dentro de App.ja y debajo de NavBar.js.**
+- **Componente ItemListContainer, importado dentro de App.js y debajo de NavBar.js.**
 
 
 
