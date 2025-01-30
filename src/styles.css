@@ -1,0 +1,22 @@
+/* Definir colores personalizados */
+.has-background-brown {
+    background-color: #8B5E3B !important; /* Marrón */
+  }
+  
+  .has-text-brown {
+    color: #5A3825 !important; /* Marrón oscuro */
+  }
+  
+  .has-background-beige {
+    background-color: #F5E1C8 !important; /* Beige */
+  }
+
+  .logo-placeholder {
+    width: 3.125rem;
+    height: 3.125rem;
+    background-color: white;
+    border-radius: 50%;
+    border: 0.125rem solid white;
+  }
+  
+  
